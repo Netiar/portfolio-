@@ -3,24 +3,38 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    background-color:grey
+    background-color:gray;
 }
 nav
 {
     width: 100%;
+    background-color:gray;
+   
    
 }    
 .menu
 {
     margin: 0;
     padding: 10px;
-    background-color: gray;
+    background-color:gray ;
     height: 30px;
-    
-    
+    justify-content:space-between ;
+    margin-left: 95vh;
+    padding:2% 5%;
+    position:relative;
+    display:flex    
 }
 .menu li
 {
     display: inline;
     
+}
+.menu li a
+{
+     color: white;
+     text-decoration: none;
+     padding:2% 35%;
+     font-size: 25px;
+
+
 }
