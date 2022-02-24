@@ -50,8 +50,13 @@
 .intro
 {
    margin-top: 150px;
-   float: right;
-}
+   display:flex;
+   align-items: center;
+   margin-left: 5vw;
+   margin-right: 5vw;  
+   justify-content:space-around
+   
+}   
 
 
 
