@@ -15,10 +15,11 @@ nav
     margin: 0;
     padding: 10px;
     background-color: gray;
+    height: 30px;
     
     
 }
-.menu>li
+.menu li
 {
     display: inline;
     
