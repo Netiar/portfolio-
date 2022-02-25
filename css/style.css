@@ -4,6 +4,7 @@
     padding: 0;
     box-sizing: border-box;
     background-color:gray;
+    
 }
 
 .header
@@ -15,9 +16,7 @@
 .navbar
 {
     width: 100%;
-    background-color:gray;
-   
-   
+    background-color:gray;    
 }
 
 .menu
@@ -54,9 +53,30 @@
    align-items: center;
    margin-left: 5vw;
    margin-right: 5vw;  
-   justify-content:space-around
+   justify-content:space-around; 
+   color: #fff;   
+}
+
+.monkey
+{
+    margin-left: 15vw;
+}
+
+.monkey h1
+{
+    font-style: italic;
+    color: azure ;
+}
+
+.bando
+{
+    margin-right: 15vw;
+    clip-path: circle();
+    
    
-}   
+}
+
+
 
 
 
