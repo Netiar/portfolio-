@@ -76,6 +76,29 @@
    
 }
 
+.kaido
+{
+   display:flex;
+   align-items: center;
+   margin-left: 50% ;
+   margin-top: 200px;   
+}
+
+.facebook
+{
+    width: 30px;
+    
+}
+
+.twitter
+{
+    width: 30px;
+}
+
+.instagram
+{
+    width: 30px;
+}
 
 
 
