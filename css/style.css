@@ -80,7 +80,7 @@
 {
    display:flex;
    align-items: center;
-   padding-left: 50%;
+   padding-left: 48%;
    margin-top: 200px;   
 }
 
@@ -151,6 +151,21 @@
 {
     display:flex;
     text-align: center;
+    width:auto;
+    justify-content: center;
+   
+}
+
+.project .Projects_member
+{
+    background-color: aqua;
+    margin: 5px;
+    width: 33%;
+    padding: 30px;
+    color: #000;
+    line-height: 25px;
+    position: relative;
+    
 }
 
 
