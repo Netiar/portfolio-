@@ -141,6 +141,18 @@
     padding-top: 10%;
 }
 
+.wrapper h2
+{
+    font-size: 30px;
+    text-align: center;
+}
+
+.project
+{
+    display:flex;
+    text-align: center;
+}
+
 
 
 
