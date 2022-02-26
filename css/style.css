@@ -2,8 +2,7 @@
 {
     margin: 0;
     padding: 0;
-    box-sizing: border-box;
-    background-color:gray;
+    box-sizing: border-box;    
     
 }
 
@@ -11,6 +10,7 @@
 {
     width: 100%;
     height: 100vh;
+    background-color:gray;
 }
 
 .navbar
@@ -65,7 +65,7 @@
 .monkey h1
 {
     font-style: italic;
-    color: azure ;
+    color: rgb(46, 175, 175) ;
 }
 
 .bando
@@ -125,35 +125,21 @@
     margin-top: 70%; 
     padding-left: 45%;
 }
-   
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+  
 }
 
+.container
+{
+    background-color:#000;
+    color: #fff;
+    width: 100%;
+    height: 100vh;
+}
+
+.wrapper
+{
+    padding-top: 10%;
+}
 
 
 
