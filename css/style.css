@@ -143,7 +143,7 @@
 
 .wrapper h2
 {
-    font-size: 30px;
+    font-size: 35px;
     text-align: center;
 }
 
@@ -153,6 +153,7 @@
     text-align: center;
     width:auto;
     justify-content: center;
+    margin-top: 15%;
    
 }
 
@@ -166,6 +167,14 @@
     line-height: 25px;
     position: relative;
     
+    
+}
+
+.project .Projects_member h3
+{
+    color: rgb(138, 8, 8) ;
+    font-size: 20px;
+    margin-top: 50px;
 }
 
 
