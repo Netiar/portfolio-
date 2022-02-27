@@ -13,7 +13,7 @@ function validateForm(){
      let errorFlag =false;
 
      if(nameInput.value.length < 1){
-         errorNodes[0].innerText = "blank";
+         errorNodes[0].innerText = "cannot be blank";
          nameInput.classList.add(error-border);
          errorFlag = true;
      }
@@ -57,7 +57,6 @@ function emailIsValid(email){
     let pattern = /\S+@\S+\.\S+/;
     return pattern.test(email);
 }
-
 
 
 
