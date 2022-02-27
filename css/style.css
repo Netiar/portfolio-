@@ -213,7 +213,7 @@
 
 }
 
-.overlay
+#overlay
 {
     padding-top:15vh
 }
@@ -248,11 +248,11 @@ input, textarea
     width: 100%;
     padding: 10px;
     box-sizing: border-box; 
-     outline: none;
-     resize: none;
-     border: none;
-     border-bottom: 1px solid #000;
-     border-radius: 4px;
+    outline: none;
+    resize: none;
+    border: none;
+    border-bottom: 1px solid #000;
+    border-radius: 4px;
     
 }
 
@@ -303,7 +303,7 @@ input[type="submit"]
 #success
 {
     color: blue;
-    
+
 }
 
 
