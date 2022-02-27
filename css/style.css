@@ -81,7 +81,7 @@
    display:flex;
    align-items: center;
    padding-left: 48%;
-   margin-top: 200px;   
+   margin-top: 150px;   
 }
 
 .facebook
@@ -109,11 +109,12 @@
 }
     .menu
 {
-    margin-left:auto; 
+    margin-left:-10vw;; 
+    
 }
     .monkey
 {
-    margin-left: 25vw;
+    margin-left: 15vw;
     margin-top: 40%;
 }
     .bando
@@ -123,7 +124,7 @@
     .kaido
 {
     margin-top: 70%; 
-    padding-left: 45%;
+    padding-left: 42%;
 }
   
 }
@@ -138,7 +139,7 @@
 
 .wrapper
 {
-    padding-top: 10%;
+    padding-top:15vh
 }
 
 .wrapper h2
@@ -153,7 +154,7 @@
     text-align: center;
     width:auto;
     justify-content: center;
-    margin-top: 15%;
+    
    
 }
 
@@ -161,7 +162,7 @@
 {
     background-color: aqua;
     margin: 5px;
-    width: 33%;
+    width: 30%;
     padding: 30px;
     color: #000;
     line-height: 25px;
@@ -174,7 +175,12 @@
 {
     color: rgb(138, 8, 8) ;
     font-size: 20px;
-    margin-top: 50px;
+    
+}
+
+.project .Projects_member .Projects_member_img
+{
+    clip-path: circle();
 }
 
 
