@@ -232,10 +232,8 @@ form
 
 }
 
-.overlay .h2
+.zoro
 {
-    margin-left: auto;
-    margin-right: auto;
     text-align: center;
 }
 
@@ -255,6 +253,21 @@ input, textarea
      border: none;
      border-bottom: 1px solid #000;
     
+}
+
+input[type="text"]:focus, textarea:focus 
+{
+    border-bottom: 1px solid gray;
+}
+
+textarea::-webkit-scrollbar
+{
+    width: 5px;
+} 
+
+textarea::-webkit-scrollbar-thumb
+{
+    background-color: #000;
 }
 
 
