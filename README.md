@@ -10,7 +10,7 @@
  + Projects & Links
  + [About](#about) 
  + [Authors Info](#author-Info)
- + [Contact] 
+ + Contact
 
 
   ## Description
@@ -22,8 +22,23 @@
  <p>Authors info and contact area are also provided.</p>
 
 
+ [Go Back to the top](#portfolio)
+ ## Technology Used
+ * HTML - which was used to build the structure of the pages.
+ 
+ * CSS - which was used to style the pages incuding the left aside navigation bar
+ 
+ * JavaScript - was used to add interactivity in the submit form 
+ 
+ 
+ ## Reference
+ * Materialize CSS
+ 
+ [Go Back to the top](#portfolio)
 
 
+
+ 
 
 
 
