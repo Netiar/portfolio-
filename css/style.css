@@ -61,6 +61,7 @@
 .monkey
 {
     margin-left: 15vw;
+    
 }
 
 .monkey h1
@@ -117,6 +118,7 @@
 {
     margin-left: 15vw;
     margin-top: 40%;
+    
 }
     .bando
 {
@@ -214,6 +216,21 @@ section
 {
     font-style: italic ;
     font-size: 30px ;
+}
+
+.description
+{
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;    
+    text-align: center;   
+}
+
+.bigmom
+{
+    padding-top: 15vh;
+    line-height:35px;
+    font-size:23px;
 }
 
 .footer
