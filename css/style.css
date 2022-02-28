@@ -17,6 +17,7 @@
 {
     width: 100%;
     background-color:gray;
+    
        
 }
 
@@ -129,7 +130,34 @@
     margin-top: 70%; 
     padding-left: 42%;
 }
+    .container
+{
+    padding-bottom: 175vh;
+}
+     section
+{
+     padding-bottom: 140vh;
+}
+     .crocodile
+{
+     margin-right: 15vw;
+
   
+}
+}
+@media (min-width:421px) and (max-width:1024)
+{   
+    .navbar
+    {
+        width: auto; 
+        
+          
+    }
+    .menu
+    {
+       padding-left: -2% -5%;
+        
+    }
 }
 
 .container
